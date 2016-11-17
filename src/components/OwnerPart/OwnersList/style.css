@@ -1,0 +1,22 @@
+.OwnersList__noManagersFound{
+    background: white;
+    padding: 15px;
+    border-radius: 6px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.OwnersList__goToShowManagersButton{
+    max-width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    background-color: #025aa5;
+    border-color: #01549b;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}

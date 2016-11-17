@@ -1,0 +1,53 @@
+.hide{
+    display: none;
+}
+#app{
+    position:absolute;
+    width:100%;
+    height: 100px;
+    top:0;
+    left: 0;
+    padding-bottom:50px;
+}
+.page{
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+    min-height: 100%;
+}
+html, body{
+    outline: 0;
+    padding:0;
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body{
+    position: relative;
+}
+.text-white{
+    color: white;
+}
+
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: white;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;
+    margin-bottom: 20px;
+}
+
+.left-margin-10{
+    margin-left: 10px;
+}
+
+
+.right-margin-10{
+    margin-right: 10px;
+}

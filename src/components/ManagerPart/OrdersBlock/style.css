@@ -1,0 +1,21 @@
+.OrderBlockItem{
+    padding: 20px;
+}
+
+.OrderBlockItem button{
+    max-width: 100px;
+}
+
+#OrderBlock >div{
+    width: 50%;
+    background: white;
+    border-radius: 6px;
+    margin: 5px auto;
+    padding: 15px;
+    min-width: 300px;
+}
+
+#OrderBlock hr{
+    border-color: darkgray;
+    margin: 5px;
+}

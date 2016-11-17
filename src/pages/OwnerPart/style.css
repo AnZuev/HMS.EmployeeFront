@@ -1,0 +1,12 @@
+#profileBlock div{
+    background: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 5px auto;
+    width: 50%;
+    min-width: 300px;
+}
+#profileBlock p{
+    display: block;
+    margin-top:10px;
+}
